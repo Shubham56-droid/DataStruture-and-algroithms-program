@@ -7,3 +7,4 @@ happy hactoberfest 2021
 <h2>List of contributors</h2>
 <p>Pls dont forget to upadate your name email and github userid</p>
 <p>Shubham Bawankar | <a href="https://github.com/Shubham56-droid">Shubham56droid</a>  | <a href="shubhambawankar735@gmail.com">mail id</a> |</p>
+<p>Sidharth Bankupalle | <a href="https://github.com/SidBthegr8">SidBthegr8</a>  | <a href="bankupallesidharth@gmail.com">mail id</a> |</p>
