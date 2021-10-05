@@ -1,5 +1,9 @@
 <h1>Hacktober Fest 2021</h1>
-<h2>Add DSA programs in  c++ , python or java in respective folder on any topic dont forget to read the rules below for sucesssfully acceptance of PR</h2>
+<h2>Add DSA programs in <br/>
+c++ <br/>
+python<br/>
+java <br/>
+in respective folder on any topic dont forget to read the rules below for sucesssfully acceptance of PR</h2>
 <p>Contribute to this repo and earn rewards.</p>
 <p>Visit The hacktoberfest website for more information<a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2021</a>
 <br/>
