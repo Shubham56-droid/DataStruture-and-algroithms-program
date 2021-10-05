@@ -1,4 +1,5 @@
 <h1>Hacktober Fest 2021</h1>
+<p>Conributors are requested to star this repo and follow me for successful merge of pull request.</p>
 <h2>Add DSA programs in <br/>
 c++ <br/>
 python<br/>
