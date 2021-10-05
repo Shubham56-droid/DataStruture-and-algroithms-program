@@ -48,7 +48,7 @@ void Insert_Last(Node** head, int node_data)
 	}
 
 
-    Node *i = *head; 
+    	Node *i = *head; 
 	while (i->next != NULL)
 		i = i->next;
 
@@ -60,7 +60,7 @@ int main()
 {
 	Node* head = NULL;
 	
-    // Add 18 to the front
+   	 // Add 18 to the front
 	Insert_Front(&head, 18);
 	//sequence --> 18
 
@@ -76,14 +76,14 @@ int main()
 	Insert_After(head, 10);
 	//sequence --> 5, 10, 18, 14
 
-    // Insert 13 after 18 
+   	 // Insert 13 after 18 
 	Insert_After(head->next->next, 13);
-    //sequence --> 5, 10, 18, 13, 14
+    	//sequence --> 5, 10, 18, 13, 14
     
 	cout<<"The final linked list after performing the different types of insertion is: ";
 
-    Node *temp = head; 
-    while (temp != NULL)
+	Node *temp = head; 
+	while (temp != NULL)
 	{
 		cout<<" "<<temp->data;
 		temp = temp->next;
