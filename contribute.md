@@ -13,4 +13,3 @@ happy hactoberfest 2021
 <p>Garv Mittra | <a href="https://github.com/Garv-M">Garv-M</a>  | <a href="garvmittra20@gmail.com">mail id</a> |</p>
 <p>Ramdev C M | <a href="https://github.com/ramdevcm">ramdevcm</a>  | <a href="ramdevcm@gmail.com">mail id</a> |</p>
 <p>Nitin Kushwaha | <a href="https://github.com/nitinkushwaha17">nitinkushwaha17</a>  | <a href="nk17oct@gmail.com">mail id</a> |</p>
-<p>Mithilesh Kumar | <a href="https://github.com/gohan007">gohan007</a>  | <a href="kumarmithilesh.1010@gmail.com">mail id</a> |</p>
