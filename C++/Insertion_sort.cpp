@@ -12,7 +12,7 @@ void insertionSort(vector<int>& arr, int n ){
         arr[j+1]=temp;
     }
 }
-void main()
+int main()
 {
     
     vector<int> arr={12,14, 17, 9, 78, 6};
@@ -27,5 +27,5 @@ void main()
         cout<<arr[i]<<" ";
     }
 
-
+return 0;
 }
