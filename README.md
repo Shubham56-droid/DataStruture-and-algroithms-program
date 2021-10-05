@@ -16,3 +16,8 @@
   <li>Dont forget to star this repository and watch for more updates</li>
   <li>you can also follow me on  <a href="https://github.com/Shubham56-droid">Shubham56-droid</a>
 </ul>
+
+<h2>Notice</h2>
+<p>All contributors who have followed above rules correctly will meet merge pull request successfully dont forget to follow me for more such repository</p>
+<p>For any further issue u can contact me in comment of issue or on my mail id</p>
+<h3>Happy Hacking to Conributors</h3>
