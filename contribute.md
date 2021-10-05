@@ -16,3 +16,5 @@ happy hactoberfest 2021
 <p>Nevil Dalsania | <a href="https://github.com/Nevilkumar">Nevilkumar</a>  | <a href="nevil.patel.1906@gmail.com">mail id</a> |</p>
 <p>Khushboo Rathore | <a href="https://github.com/Khushboorathore10">KhushbooRathore</a>  | <a href="khushboorathore555@gmail.com">mail id</a> |</p>
 <p>Mithilesh Kumar | <a href="https://github.com/gohan007">gohan007</a>  | <a href="kumarmithilesh.1010@gmail.com">mail id</a> |</p>
+<p>Adithya Sanyal | <a href="https://github.com/AdithyaSanyal">Stitti</a>  | <a href="adithyasanyal@gmail.com">mail id</a> |</p>
+
