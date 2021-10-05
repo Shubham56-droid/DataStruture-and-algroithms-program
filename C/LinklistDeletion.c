@@ -6,7 +6,6 @@ struct node
     int data;
     struct node *next;
 };
-
 display(struct node *head)
 {
     if(head == NULL)
