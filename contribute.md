@@ -15,6 +15,7 @@ happy hactoberfest 2021
 <p>Nitin Kushwaha | <a href="https://github.com/nitinkushwaha17">nitinkushwaha17</a>  | <a href="nk17oct@gmail.com">mail id</a> |</p>
 <p>Nevil Dalsania | <a href="https://github.com/Nevilkumar">Nevilkumar</a>  | <a href="nevil.patel.1906@gmail.com">mail id</a> |</p>
 <p>Khushboo Rathore | <a href="https://github.com/Khushboorathore10">KhushbooRathore</a>  | <a href="khushboorathore555@gmail.com">mail id</a> |</p>
+<p>Anshul Chawla | <a href="https://github.com/Dopiumistfg">Dopiumistfg</a>  | <a href="anshul@packtest.com">mail id</a> |</p>
 <p>Mithilesh Kumar | <a href="https://github.com/gohan007">gohan007</a>  | <a href="kumarmithilesh.1010@gmail.com">mail id</a> |</p>
 <p>Adithya Sanyal | <a href="https://github.com/AdithyaSanyal">Stitti</a>  | <a href="adithyasanyal@gmail.com">mail id</a> |</p>
 <p>Ishant Khurana | <a href="https://github.com/Ishantkhurana">Stitti</a>  | <a href="ishantkhurana73@gmail.com">mail id</a> |</p>
@@ -27,3 +28,4 @@ happy hactoberfest 2021
 <p>Anushka Dube | <a href="https://github.com/Anushka-3000">Anushka-3000</a> | <a href="anushkadube1512@gmail.com">mail id</a> |</p>
 <p>Ishaan Jain | <a href="https://github.com/Catunoo">Catunoo</a> | <a href="buno.snow@gmail.com">mail id</a> |</p>
 <p>Amar Mehta | <a href="https://github.com/amar13mehta">amar13mehta</a>  | <a href="amar13iam@gmail.com">mail id</a> |</p>
+<p>Jogeswar panigrahi | <a href="https://github.com/jogeswar106">jogeswar106</a> | <a href="jogeshwarpanigrahigmail.com">mail id</a> |</p>
