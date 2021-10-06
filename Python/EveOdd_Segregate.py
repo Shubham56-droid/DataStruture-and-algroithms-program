@@ -24,7 +24,7 @@ def segregateEvenOdd(arr):
  
  
 # Driver function to test above function
-arr = [12, 34, 45, 9, 8, 90, 3]
+arr = [29, 7, 98, 9, 30, 2, 74, 67]
 segregateEvenOdd(arr)
 print ("Array after segregation "),
 for i in range(0,len(arr)):
