@@ -21,5 +21,5 @@ happy hactoberfest 2021
 <p>Jigar Shah | <a href="https://github.com/shahjigar556">shahjigar556</a>  | <a href="shahjigar185@gmail.com">mail id</a> |</p>
 <p>Talha Masood | <a href="https://github.com/talhamasoodme">shahjigar556</a>  | <a href="talhamasood7777@gmail.com">mail id</a> |</p>
 <p>Vineet Kumar Sharma | <a href="https://github.com/vineetsharma36">vineetsharma36</a>  | <a href="sharmavineet492@gmail.com@gmail.com">mail id</a> |</p>
+<p>Yash Kumar Shrivas | <a href="https://github.com/Obito9596">Obito9596</a>  | <a href="yashkshrivas1234@gmail.com">mail id</a> |</p>
 <p>Pawan Gupta | <a href="https://github.com/losermyluckwithyou007">losermyluckwithyou007</a> | <a href="losermyluckwithyou007@gmail.com">mail id</a> |</p>
-
