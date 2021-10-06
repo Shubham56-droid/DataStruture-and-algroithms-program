@@ -1,0 +1,53 @@
+//Swapping without using Third Variable
+
+#include<iostream>
+#include <conio.h>
+#include <math.h>
+
+using namespace std;
+
+int main()
+
+{
+    int a,b;
+    cout<<"Enter the values of a and b:\n";
+    cin>>a>>b;
+
+    cout<<"The values of a and b before swapping were:\n"<<"a="<<a<<" and b="<<b<<endl;
+
+    a=a-b;
+    b=a+b;
+    a=b-a;
+
+    cout<<"The values of a and b after swapping are:\n"<<"a="<<a<<" and b="<<b;
+
+    return 0;
+
+}
+
+//Swapping using Third Variable
+
+#include<iostream>
+#include <conio.h>
+#include <math.h>
+
+using namespace std;
+
+int main()
+
+{
+    int a,b,c;
+    cout<<"Enter the values of a and b:\n";
+    cin>>a>>b;
+
+    cout<<"The values of a and b before swapping were:\n"<<"a="<<a<<" and b="<<b<<endl;
+
+    c=a;
+    a=b;
+    b=c;
+
+    cout<<"The values of a and b after swapping are:\n"<<"a="<<a<<" and b="<<b;
+
+    return 0;
+
+}
