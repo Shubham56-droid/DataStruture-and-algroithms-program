@@ -26,4 +26,4 @@ happy hactoberfest 2021
 <p>Parth Kholkute | <a href="https://github.com/mephisto2975">mephisto2975</a> | <a href="pkholkute9@gmail.com">mail id</a> |</p>
 <p>Anushka Dube | <a href="https://github.com/Anushka-3000">Anushka-3000</a> | <a href="anushkadube1512@gmail.com">mail id</a> |</p>
 <p>Ishaan Jain | <a href="https://github.com/Catunoo">Catunoo</a> | <a href="buno.snow@gmail.com">mail id</a> |</p>
-
+<p>Amar Mehta | <a href="https://github.com/amar13mehta">amar13mehta</a>  | <a href="amar13iam@gmail.com">mail id</a> |</p>
