@@ -30,3 +30,4 @@ happy hactoberfest 2021
 <p>Amar Mehta | <a href="https://github.com/amar13mehta">amar13mehta</a>  | <a href="amar13iam@gmail.com">mail id</a> |</p>
 <p>Jogeswar panigrahi | <a href="https://github.com/jogeswar106">jogeswar106</a> | <a href="jogeshwarpanigrahigmail.com">mail id</a> |</p>
 <p>Meetkumar Patel | <a href="https://github.com/Meet2020mp">Meet2020mp</a> | <a href="meet2020mp@gmail.com">mail id</a> |</p>
+<p>Aditya Aggarwal | <a href="https://github.com/adityaaggarwal12">Meet2020mp</a> | <a href="adityaaggarwal12339@gmail.com">mail id</a> |</p>
