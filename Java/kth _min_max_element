@@ -1,0 +1,39 @@
+import java.util.Scanner;
+public class kth_min_max_Element {
+    static void sort(int arr[], int n,int k){
+        int i,j,temp;
+        for(i=1;i<n;i++){
+            temp=arr[i];
+            j=i;
+            while(j>0 && arr[j-1]>temp){
+                arr[j]=arr[j-1];
+                j=j-1;
+            }
+            arr[j]=temp;
+            
+        }
+        for(i=0;i<n;i++){
+            System.out.println(arr[i]);
+        }
+
+            System.out.println("kth min is "+arr[k-1]);
+            System.out.println("kth max is "+arr[n-k]);
+
+    }
+
+    public static void main(String[] args){
+        int i;
+        Scanner sc= new Scanner(System.in);
+        System.out.println("no of elements- ");
+        int n= sc.nextInt();
+        System.out.println("elements- ");
+        int arr[]=new int[n];
+        for(i=0;i<n;i++){
+            arr[i]=sc.nextInt();
+        }
+        System.out.println("kth element- ");
+        int k= sc.nextInt();
+        sort(arr,n,k);
+    }
+    
+}
