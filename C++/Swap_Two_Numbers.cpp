@@ -1,26 +1,20 @@
-#include<bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
-void swap_numbers(int *a, int *b)
-{
-    int temp = *a;
-    *a = *b;
-    *b = temp;
-}
 int main()
 {
-    int x = 10, y = 5;
-
-    // This is the function that we have created by passing the address of the variables for swapping the values in the variables.
-    swap_numbers(&x, &y);
-
-    cout<<x<<" "<<y<<"\n";
-
-    int m = 10, n = 5;
-
-    //This is the inbuilt function that we can use to swap two numbers by just passing the values to it through variables.
-    swap(m, n);
     
-    cout<<m<<" "<<n<<"\n";
+    int a = 5, b = 10;
+
+    cout << "Before swapping." << endl;
+    cout << "a = " << a << ", b = " << b << endl;
+
+    a = a + b;
+    b = a - b;
+    a = a - b;
+
+    cout << "\nAfter swapping." << endl;
+    cout << "a = " << a << ", b = " << b << endl;
+
     return 0;
 }

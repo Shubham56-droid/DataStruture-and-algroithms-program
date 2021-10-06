@@ -16,3 +16,16 @@ happy hactoberfest 2021
 <p>Nevil Dalsania | <a href="https://github.com/Nevilkumar">Nevilkumar</a>  | <a href="nevil.patel.1906@gmail.com">mail id</a> |</p>
 <p>Khushboo Rathore | <a href="https://github.com/Khushboorathore10">KhushbooRathore</a>  | <a href="khushboorathore555@gmail.com">mail id</a> |</p>
 <p>Anshul Chawla | <a href="https://github.com/Dopiumistfg">Dopiumistfg</a>  | <a href="anshul@packtest.com">mail id</a> |</p>
+<p>Mithilesh Kumar | <a href="https://github.com/gohan007">gohan007</a>  | <a href="kumarmithilesh.1010@gmail.com">mail id</a> |</p>
+<p>Adithya Sanyal | <a href="https://github.com/AdithyaSanyal">Stitti</a>  | <a href="adithyasanyal@gmail.com">mail id</a> |</p>
+<p>Ishant Khurana | <a href="https://github.com/Ishantkhurana">Stitti</a>  | <a href="ishantkhurana73@gmail.com">mail id</a> |</p>
+<p>Jigar Shah | <a href="https://github.com/shahjigar556">shahjigar556</a>  | <a href="shahjigar185@gmail.com">mail id</a> |</p>
+<p>Talha Masood | <a href="https://github.com/talhamasoodme">shahjigar556</a>  | <a href="talhamasood7777@gmail.com">mail id</a> |</p>
+<p>Vineet Kumar Sharma | <a href="https://github.com/vineetsharma36">vineetsharma36</a>  | <a href="sharmavineet492@gmail.com@gmail.com">mail id</a> |</p>
+<p>Yash Kumar Shrivas | <a href="https://github.com/Obito9596">Obito9596</a>  | <a href="yashkshrivas1234@gmail.com">mail id</a> |</p>
+<p>Pawan Gupta | <a href="https://github.com/losermyluckwithyou007">losermyluckwithyou007</a> | <a href="losermyluckwithyou007@gmail.com">mail id</a> |</p>
+<p>Parth Kholkute | <a href="https://github.com/mephisto2975">mephisto2975</a> | <a href="pkholkute9@gmail.com">mail id</a> |</p>
+<p>Anushka Dube | <a href="https://github.com/Anushka-3000">Anushka-3000</a> | <a href="anushkadube1512@gmail.com">mail id</a> |</p>
+<p>Ishaan Jain | <a href="https://github.com/Catunoo">Catunoo</a> | <a href="buno.snow@gmail.com">mail id</a> |</p>
+
+

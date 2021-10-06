@@ -1,14 +1,26 @@
-#include<stdio.h>
+#include<bits/stdc++.h>
+using namespace std;
+
+void reverse(int arr[],int n){
+    int i=0;
+    while(i<n){
+    swap(arr[i],arr[n-1]);
+        
+        i++;
+        n--;
+    }
+
+    }
+
 
 int main(){
     
     int arr[] = {1,2,3,4,5,6,7};
-    int arr2[7];
-    int size = sizeof(arr)/4;
-    for(int i=0;i<size;i++){
-        arr2[size-1-i] = arr[i];
-    }
-    for(int i=0;i<size;i++){
-        printf("%d",arr2[i]);
+    
+   
+    reverse(arr,7); //MADE YOUR CODE EASIER , TWO POINTER TECHNIQUE.
+
+    for(int i=0;i<7;i++){
+        cout<<arr[i]<<" ";
     }
 }

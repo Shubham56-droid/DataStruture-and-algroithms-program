@@ -1,33 +1,25 @@
 #include<stdio.h>
-
 void main(){
-int a[100],i,j,temp,n;
-
+int a[10],i,j,key,n;
 printf("\nEnter the number of elements: ");
 scanf("%d",&n);
-
 for(i=0;i<n;i++){
     printf("\nEnter element: ");
     scanf("%d",&a[i]);
 }
-
-for(i=0;i<n;i++)
-{
-    for(j=i+1;j<n;j++)
-    {
-        if(a[i]>a[j])
-        {
-            temp=a[i];
-            a[i]=a[j];
-            a[j]=temp;
-        }
+for(i=1;i<n;i++){
+    key=a[i];
+    j=i-1;
+    while(j>=0 && a[j]>key){
+        a[j+1]=a[j];
+        j=j-1;
     }
+    a[j+1]=key;
 }
-
 printf("\nThe sorted array is: ");
-for(i=0;i<n;i++)
-{
+for(i=0;i<n;i++){
     printf("\t%d",a[i]);
 }
-
 }
+
+
