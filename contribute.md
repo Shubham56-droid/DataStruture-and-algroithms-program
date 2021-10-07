@@ -40,4 +40,5 @@ happy hactoberfest 2021
 
 <p>Ikhwan | <a href="https://github.com/NurIkhwanAnnafis">Ikhwan</a> | <a href="nur.ikhwan.annafis@gmail.com">mail id</a> |</p>
 <p>Sayantan Pal | <a href="https://github.com/sayantan-world">sayantan-world</a> | <a href="sayantan.world98@gmail.com">mail id</a> | </p>
+<p>Afzal Khan | <a href="https://github.com/afzall-khan">afzall-khan</a>  | <a href="afzalkhan.lma@gmail.com">mail id</a> |</p>
 
