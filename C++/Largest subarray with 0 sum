@@ -1,0 +1,24 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int maxLen(int arr[], int n)
+    {
+        map<int,int>m1;
+        int i,sum=0,ans=0;
+
+        for(i=0;i<n;i++){
+            sum=sum+arr[i];  //Finding cummulative sum.
+            if(sum == 0){ans=i+1;}  //if curr number if 0 then increment the answer.
+            if(arr[i] == 0){ans=max(ans,1);}  // if
+            if(m1.find(sum) != m1.end()){ans=max(ans,i-m1[sum]);} // if the current sum has been observed earlier then it is for sure that it is going to give us a sum 0.
+            else{m1[sum]=i;} // if not found in map we push the current sum into map.
+        }
+        return ans;
+    }
+
+
+int main(){
+  int arr[]={-1,1,0,0,2};
+  int n=sizeof(arr)/sizeof(arr[0]);
+  cout<<maxLen(arr,n);
+}
