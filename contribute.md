@@ -38,3 +38,5 @@ happy hactoberfest 2021
 
 <p>Pratibha Singh | <a href="https://github.com/Crazy2code15">Crazy2code15</a> | <a href="singhpratibha433@gmail.com">mail id</a> |</p>
 
+<p>Ikhwan | <a href="https://github.com/NurIkhwanAnnafis">Ikhwan</a> | <a href="nur.ikhwan.annafis@gmail.com">mail id</a> |</p>
+
