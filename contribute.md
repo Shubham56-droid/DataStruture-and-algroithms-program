@@ -30,16 +30,12 @@ happy hactoberfest 2021
 <p>Amar Mehta | <a href="https://github.com/amar13mehta">amar13mehta</a>  | <a href="amar13iam@gmail.com">mail id</a> |</p>
 <p>Jogeswar panigrahi | <a href="https://github.com/jogeswar106">jogeswar106</a> | <a href="jogeshwarpanigrahigmail.com">mail id</a> |</p>
 <p>Meetkumar Patel | <a href="https://github.com/Meet2020mp">Meet2020mp</a> | <a href="meet2020mp@gmail.com">mail id</a> |</p>
-
 <p>Payal Pote | <a href="https://github.com/blaze116">blaze116</a> | <a href="payapote2002@gmail.com">mail id</a> |</p>
-
-
 <p>Abhivansh Bhatnagar | <a href="https://github.com/AbhivanshBhatnagar">Abhivansh Bhatnagar</a>  | <a href="bhatnagar1102abhivansh@gmail.com">mail id</a> |</p>
-
 <p>Pratibha Singh | <a href="https://github.com/Crazy2code15">Crazy2code15</a> | <a href="singhpratibha433@gmail.com">mail id</a> |</p>
-
 <p>Ikhwan | <a href="https://github.com/NurIkhwanAnnafis">Ikhwan</a> | <a href="nur.ikhwan.annafis@gmail.com">mail id</a> |</p>
 <p>Sayantan Pal | <a href="https://github.com/sayantan-world">sayantan-world</a> | <a href="sayantan.world98@gmail.com">mail id</a> | </p>
 <p>Afzal Khan | <a href="https://github.com/afzall-khan">afzall-khan</a>  | <a href="afzalkhan.lma@gmail.com">mail id</a> |</p>
+<p>Hijikesh Hijal | <a href="https://github.com/hijal">Hijikesh Hijal</a>  | <a href="imh1j4l@gmail.com">mail id</a> |</p>
 <p>Eshaan Awasthi | <a href="https://github.com/eshaan-oreo">eshaan-oreo</a>  | <a href="eshaanawasthi24@gmail.com">mail id</a> |</p>
 
