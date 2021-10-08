@@ -38,4 +38,4 @@ happy hactoberfest 2021
 <p>Afzal Khan | <a href="https://github.com/afzall-khan">afzall-khan</a>  | <a href="afzalkhan.lma@gmail.com">mail id</a> |</p>
 <p>Hijikesh Hijal | <a href="https://github.com/hijal">Hijikesh Hijal</a>  | <a href="imh1j4l@gmail.com">mail id</a> |</p>
 <p>Eshaan Awasthi | <a href="https://github.com/eshaan-oreo">eshaan-oreo</a>  | <a href="eshaanawasthi24@gmail.com">mail id</a> |</p>
-
+<p>Nirusha Nayak | <a href="https://github.com/nirushanayak">nirusha-nayak</a>  | <a href="nirushanayak31@gmail.com">mail id</a> |</p>
