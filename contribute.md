@@ -41,4 +41,8 @@ happy hactoberfest 2021
 <p>Nirusha Nayak | <a href="https://github.com/nirushanayak">nirusha-nayak</a>  | <a href="nirushanayak31@gmail.com">mail id</a> |</p>
 <p>Nehal Agrawal | <a href="https://github.com/NehalAgrawal186">nehal-agrawal</a> | <a href="nehalagrawal186@gmail.com">mail id</a> |</p>
 <p>Arpan Maheshwari | <a href="https://github.com/ArpanMaheshwari144">ArpanMaheshwari144</a> | <a href="maheshwariarpan828@gmail.com">Email ID</a> | </p>
+
+<p>Vishal Ambavade | <a href="https://github.com/VishalAmbavade">VishalAmbavade</a> | <a href="vaambavade@gmail.com">mail id</a> | </p>
+
 <p>Shruti Solani | <a href="https://github.com/ShrutiSolani">ShrutiSolani</a> | <a href="shrutiusolani@gmail.com">mail id</a> |</p>
+
