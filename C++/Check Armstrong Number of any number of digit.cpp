@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 
 #include<math.h>
 
@@ -21,7 +21,7 @@ int main()
     for(num=n;num!=0;++i)        //store the number of digits of n in num
 
     {
-
+        
         num/=10;
 
     }

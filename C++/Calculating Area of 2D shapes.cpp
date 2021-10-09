@@ -1,13 +1,9 @@
-#include<iostream>
-
+#include <iostream>
 #include <conio.h>
-
-#include<math.h>
-
+#include <math.h>
 
 
 using namespace std;
-
 
 
 int main()
