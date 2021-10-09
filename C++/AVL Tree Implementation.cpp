@@ -181,7 +181,7 @@ int main()
         case 4:
         {
             cout << "Tree Print In Inorder ";
-            tree.Inorder();
+            tree.Inorder(); //Add the required argument.
         }
         case 5:
             exit(1);
