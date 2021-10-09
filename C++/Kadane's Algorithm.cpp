@@ -1,4 +1,5 @@
 //Largest contiguous array sum
+//Contributed by "Nikhil Kumar" (GitHub ID= nickel-28)
 
 #include<iostream>
 #include<climits>
