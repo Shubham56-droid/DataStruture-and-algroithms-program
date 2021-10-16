@@ -14,7 +14,7 @@ in respective folder on any topic dont forget to read the rules below for sucess
 <p>🛠Welcome to hacktobefest 2021 event</p>
 <p>⛏All contributors are requested to put read this readme file carefully for successfully acceptance of pull request</p>
 <h3>How To Contribute</h3>
-<p>⌛️In order to do successful contribution you have to follws some rules all the pull request will be accepted who have correctly contributed.</p>
+<p>⌛️In order to do successful contribution you have to follow some rules all the pull request will be accepted who have correctly contributed.</p>
 <p>⌛️Keep patience if the pull request is not merged do let me know in  comments</p>
 <h4>🛡Rules</h4>
 <ul>
