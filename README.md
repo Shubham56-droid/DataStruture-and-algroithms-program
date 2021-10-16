@@ -29,3 +29,6 @@ in respective folder on any topic dont forget to read the rules below for sucess
 <p>⚔️ All contributors who have followed above rules correctly will meet merge pull request successfully dont forget to follow me for more such repository</p>
 <p>⚔️ For any further issue u can contact me in comment of issue or on my mail id</p>
 <h3>Happy Hacking to Conributors</h3>
+
+# DataStruture-and-algroithms-program
+this repo contains DSA question solution in hacktoberfest2021
