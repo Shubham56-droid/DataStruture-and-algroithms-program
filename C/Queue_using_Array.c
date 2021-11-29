@@ -22,7 +22,7 @@ int isFull(struct queue*q)
 
 int isEmpty(struct queue*q)
 {
-  if(q->r == q->f)
+  if(q->r == -1)
   {
     return 1;
   }
@@ -55,10 +55,8 @@ void dequeue(struct queue*q)
   }
   else
   {
-    
-    q->f = q->f + 1;
     int a = q->arr[q->f];
-    
+    q->f = q->f + 1;
     if(a== -1)
     {
        printf("No element to remove\n");
@@ -74,7 +72,7 @@ void queueTraversal(struct queue*q)
 {
   for (int i = q->f; i < q->r; i++)
   {
-     printf("element %d is %d\n",i+1,q->arr[i]);
+     printf("element is %d\n",q->arr[i]);
   }
 }
 
@@ -82,7 +80,8 @@ int main()
 {
   struct queue q;
   q.size = 100;
-  q.f = q.r = -1;
+  q.f = 0;
+  q.r = -1;
   q.arr = (int*)malloc(q.size* sizeof(int));
   enqueue(&q,34);
   enqueue(&q,45);
