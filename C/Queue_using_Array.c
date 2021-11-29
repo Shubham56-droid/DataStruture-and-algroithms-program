@@ -1,3 +1,6 @@
+/*
+ ---------------------------------------------  Write a C program to implement the queue using array -----------------------------------------
+*/
 #include<stdio.h>
 #include<stdlib.h>
 struct queue
@@ -110,19 +113,20 @@ int main()
   dequeue(&q);
   dequeue(&q);
   dequeue(&q);
-  dequeue(&q);
-  dequeue(&q);
-  dequeue(&q);
 
   printf("the elements after dequeue is: \n");
   queueTraversal(&q);
-  
+
+
+
   return 0;
 }
 
 
-/*
---OUTPUT OF THE ABOVE CODE
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------   OUTPUT OF THE ABOVE CODE ------------------------------------
+
 PS D:\DSA> gcc queueusingArray.c
 PS D:\DSA> .\a.exe
 the elements after enqueue is: 
@@ -161,4 +165,6 @@ element 14 is 45
 element 15 is 11
 element 16 is 29
 element 17 is 5
-*/
+
+
+--------------------------------------------------------------------------------------------------------------------------------*/
