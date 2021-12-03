@@ -1,67 +1,151 @@
 package com.company;
-import javax.swing.border.Border;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
-public class GuiApp
+public class AwtJava extends Frame implements ActionListener
 {
-    Frame f;
+//    Frame F;
     Label l1,l2,l3;
     TextField t1,t2,t3;
-    Button b1,b2;
+    Button b1,b2,b3,b4;
 
-    public GuiApp()
+
+    AwtJava(String title)
     {
-        /*
-         * here i am defining everything
-         */
-        f = new Frame("Gui App");
-        f.setVisible(true);
-        f.setSize(260,450);
-        f.setResizable(true);
-        f.setLocation(600,250);
+        super(title);
+//        F = new Frame();
+        this.setVisible(true);
+        setSize(260,200);
+        setBackground(Color.DARK_GRAY);
+        setResizable(true);
+        setLocation(600,200);
 
-        l1 = new Label("Enter 1 number");
-        l1.setBounds(20,50,90,25);
-        l1.setBackground(Color.pink);
+
+
+        l1 = new Label("Enter the number 1:");
+        l2 = new Label("Enter the number 2:");
+        l3 = new Label("Results :");
+
+        b1 = new Button("Addition");
+        b1.setForeground(Color.orange);
+        b1.setBackground(Color.gray);
+        b1.addActionListener(this);
+
+
+        b2 = new Button("Subtract");
+        b2.setForeground(Color.orange);
+        b2.setBackground(Color.gray);
+        b2.addActionListener(this);
+
+
+        b3 = new Button("Multiply");
+        b3.setForeground(Color.orange);
+        b3.setBackground(Color.gray);
+        b3.addActionListener(this);
+
+        b4 = new Button("Division");
+        b4.setForeground(Color.orange);
+        b4.setBackground(Color.gray);
+        b4.addActionListener(this);
+
+
+
+
+
+
         t1 = new TextField(10);
-        t1.setBounds(150,50,90,25);
-        l2 = new Label("Enter 2 number");
-        l2.setBounds(20,100,90,25);
-        l2.setBackground(Color.pink);
         t2 = new TextField(10);
-        t2.setBounds(150,100,90,25);
-        l3 = new Label("Enter 3 number");
-        l3.setBounds(20,150,90,25);
-        l3.setBackground(Color.pink);
         t3 = new TextField(10);
-        t3.setBounds(150,150,90,25);
-        b1 = new Button("Add");
-        b1.setBounds(20,200,90,25);
-        b1.setBackground(Color.orange);
-        b2 = new Button("Multiply");
-        b2.setBounds(150,200,90,25);
-        b2.setBackground(Color.orange);
 
-        /*
-        * Now I am going to set layout for
-        * visibility in to the frame
-        * flow layout - automatic approach
-        */
+        Panel p1 = new Panel();
+        p1.setBackground(Color.green);
+        p1.add(l1);
+        p1.add(t1);
 
-        f.setLayout(null);
-        f.add(l1);
-        f.add(t1);
-        f.add(l2);
-        f.add(t2);
-        f.add(l3);
-        f.add(t3);
-        f.add(b1);
-        f.add(b2);
-        f.setBackground(Color.DARK_GRAY);
+        Panel p2 = new Panel();
+        p2.setBackground(Color.green);
+        p2.add(l2);
+        p2.add(t2);
+
+        Panel p3 = new Panel();
+        p3.setBackground(Color.green);
+        p3.add(l3);
+        p3.add(t3);
+
+        Panel p4 = new Panel();
+        p4.setBackground(Color.cyan);
+        GridLayout g = new GridLayout(2,2);
+        p4.setLayout(g);
+        p4.add(b1);
+        p4.add(b2);
+        p4.add(b3);
+        p4.add(b4);
+
+
+        FlowLayout f1 = new FlowLayout();
+        this.setLayout(f1);
+        add(p1);
+        add(p2);
+        add(p3);
+        add(p4);
+
+
 
     }
     public static void main(String[] args)
     {
-        GuiApp G = new GuiApp();
+        AwtJava a = new AwtJava("Gui App");
     }
+
+    @Override
+    public void actionPerformed(ActionEvent e)
+    {
+        String s1 = t1.getText();
+        String s2 = t2.getText();
+
+        if(s1.equals("") || s2.equals(""))
+        {
+            javax.swing.JOptionPane.showMessageDialog(null,"Please fill all the field");
+        }
+        else
+        {
+            double d1 = Double.parseDouble(s1);
+            double d2 = Double.parseDouble(s2);
+            double r = 0.0;
+//            Object obj = e.getSource();
+//            if(obj == b1)
+            /* Here we will be using different method  e.getActionCommand()*/
+
+            String obj = e.getActionCommand();
+            if(obj.equals("Addition"))
+            {
+                r = d1 + d2;
+                t3.setText(String.valueOf(r));
+            }
+            else if(obj.equals("Subtract"))
+            {
+                r = d1 - d2;
+                t3.setText(String.valueOf(r));
+            }
+            else if(obj.equals("Multiply"))
+            {
+                r = d1 * d2;
+                t3.setText(String.valueOf(r));
+            }
+            else if(obj.equals("Division"))
+            {
+                r = d1 / d2;
+                t3.setText(String.valueOf(r));
+            }
+            else
+            {
+                t3.setText("Invalid Entry");
+            }
+
+
+        }
+    }
+
+
 }
