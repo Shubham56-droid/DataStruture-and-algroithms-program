@@ -1,2 +1,2 @@
-# DataStruture-and-algroithms-program
-This repository has DSA questions for practice
+# Data Structures and Algorithm Program 🔥 
+### Enchance Your DSA with this repo 🚀
